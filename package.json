@@ -1,0 +1,23 @@
+{
+  "name": "techfest-landing-page",
+  "version": "1.0.0",
+  "description": "Modern landing page for Techfest 2026 - Asia's largest science and technology festival",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "build": "echo 'No build needed for static site'"
+  },
+  "keywords": [
+    "techfest",
+    "landing-page",
+    "iit-bombay",
+    "festival",
+    "technology"
+  ],
+  "author": "Techfest Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/techfest-landing-page.git"
+  }
+}
